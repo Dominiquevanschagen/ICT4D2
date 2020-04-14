@@ -1,4 +1,2 @@
 # ICT4D2
-# ICT4D2
-# ICT4D2
-# ICT4D2
+
